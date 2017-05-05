@@ -2,6 +2,6 @@
 
 [Restaurante](Restaurante)\
 [Space Invaders](Space\ Invaders)\
-[Polish Calculator](Polish\ Calculator)\
+[Polish Calculator](Polish\ Calculator)
 
 
