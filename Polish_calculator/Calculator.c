@@ -52,8 +52,6 @@ double pop_r(){
 double check_r(){
     return pilha_r[topo_r];
 }
-
-
 void ler(){
     expressao[0] = '(';
     scanf(" %[^\n]s", expressao+1);
