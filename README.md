@@ -2,6 +2,6 @@
 
 [Restaurante](Restaurante)\
 [Space Invaders](Space\_Invaders)\
-[Polish Calculator](Polish\_Calculator)
+[Polish Calculator](https://github.com/VerasUnB/Projects/tree/master/Polish_calculator)
 
 
