@@ -11,3 +11,6 @@ expressão no tipo infixa i.e: ((2+4)*3), e o programa deverá ler a expressão 
 usuário, analisar se é uma expressão válida, tranformá-la para a forma posfixa, utilizando
 a estrutura de dados pilha, além de mostrar na tela para o usuário ela(expressão) na forma
 posfixa e mostrar o resultado da expressão.
+
+[Trabalho](Calculator.c)
+[Relatório](Relatorio_Trabalho_1_ED.pdf)
