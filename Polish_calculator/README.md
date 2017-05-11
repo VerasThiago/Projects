@@ -12,5 +12,8 @@ usuário, analisar se é uma expressão válida, tranformá-la para a forma posf
 a estrutura de dados pilha, além de mostrar na tela para o usuário ela(expressão) na forma
 posfixa e mostrar o resultado da expressão.
 
-[Trabalho](Calculator.c)
+*Tutorial:*\
+Baixar [este](Calculator.c) arquivo, compilar no terminal o arquivo com o código gcc Calculator Calculator.c e executar o comando ./Calculator\
+
+[Calculadora](Calculator.c)\
 [Relatório](Relatorio_Trabalho_1_ED.pdf)
