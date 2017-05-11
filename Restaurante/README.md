@@ -1,4 +1,4 @@
-**Avaliação de Expressões Aritméticas (forma posfixa)**\
+**Simulação de um restaurante**\
 Thiago Veras Machado\
 Dep. Ciência da Computação – Universidade de Brası́lia (UnB)\
 CiC 116319 - Algorítmos e Programas de Computadores - Turma A\
