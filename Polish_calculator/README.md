@@ -13,7 +13,7 @@ a estrutura de dados pilha, além de mostrar na tela para o usuário ela(express
 posfixa e mostrar o resultado da expressão.
 
 *Tutorial:*\
-Baixar [este](Calculator.c) arquivo, compilar no terminal o arquivo com o código gcc Calculator Calculator.c e executar o comando ./Calculator\
+Baixar [este](Calculator.c) arquivo, compilar no terminal com o código: "gcc Calculator Calculator.c" e executar o comando ./Calculator
 
 [Calculadora](Calculator.c)\
 [Relatório](Relatorio_Trabalho_1_ED.pdf)
