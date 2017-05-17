@@ -1,10 +1,8 @@
 **Avaliação de Expressões Aritméticas (forma posfixa)**\
-Thiago Veras Machado\
-Vitor Fernandes Dullens\
+Thiago Veras Machado thiagomachado@cjr.org.br\
+Vitor Fernandes Dullens vitordullens@cjr.org.br\
 Dep. Ciência da Computação – Universidade de Brası́lia (UnB)\
 CiC 116319 - Estrutura de Dados - Turma A\
-thiagomachado@cjr.org.br\
-vitordullens@cjr.org.br
 
 **Descrição:**\
 O trabalho consiste em uma calculadora de expressões, no qual a entrada vai ser uma
