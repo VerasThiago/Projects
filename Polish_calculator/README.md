@@ -3,7 +3,8 @@ Thiago Veras Machado\
 Vitor Fernandes Dullens\
 Dep. Ciência da Computação – Universidade de Brası́lia (UnB)\
 CiC 116319 - Estrutura de Dados - Turma A\
-{thiagomachado,vitordullens}@cjr.org.br
+thiagomachado@cjr.org.br
+vitordullens@cjr.org.br
 
 **Descrição:**\
 O trabalho consiste em uma calculadora de expressões, no qual a entrada vai ser uma
