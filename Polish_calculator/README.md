@@ -4,7 +4,7 @@
 Thiago Veras Machado - thiagomachado@cjr.org.br\
 Vitor Fernandes Dullens - vitordullens@cjr.org.br\
 Dep. Ciência da Computação – Universidade de Brası́lia (UnB)\
-CiC 116319 - Estrutura de Dados - Turma A\
+CiC 116319 - Estrutura de Dados - Turma A
 
 ## Game Informations
 O trabalho consiste em uma calculadora de expressões, no qual a entrada vai ser uma
