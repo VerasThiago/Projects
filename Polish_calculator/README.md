@@ -17,6 +17,6 @@
 
 ## Tutorial
 
-- Baixar o arquivo "Calculadora", compilar no terminal com o código: "gcc Calculator Calculator.c" e executar o comando ./Calculator.
+- Baixar o arquivo "Calculadora", compilar no terminal com o código: "gcc Calculator Calculator.c" e executar o comando "./Calculator".
 - [Calculadora](Calculator.c)
 - [Relatório](Relatorio_Trabalho_1_ED.pdf)
