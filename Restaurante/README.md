@@ -3,7 +3,7 @@
 ## Autor
 Thiago Veras Machado - thiagomachado@cjr.org.br\
 Dep. Ciência da Computação – Universidade de Brası́lia (UnB)\
-CiC 116319 - Algorítmos e Programas de Computadores - Turma A\
+CiC 116319 - Algorítmos e Programas de Computadores - Turma A - 2016-2\
 
 ## Program Description
 O trabalho consiste em uma simulação de um restaurante, no qual o usuário digita a quantidade de pessoas que irão ocupar uma mesa, se deseja escolher sentar na varanda ou no salão e qual mesa sentar, depois irá aparecer uma animação até a mesa e após um tempo aleatório a mesa é desocupada.
