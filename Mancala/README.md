@@ -1,6 +1,6 @@
 # Mancala game in C with Artificial Intelligence
 
-## Autors:
+## Autors
 Thiago Veras Machado\
 Vitor Fernandes Dullens
 
