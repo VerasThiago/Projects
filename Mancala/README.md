@@ -1,8 +1,10 @@
 # Mancala game in C with Artificial Intelligence
 
 ## Autors
-Thiago Veras Machado\
-Vitor Fernandes Dullens
+Thiago Veras Machado - thiagomachado@cjr.org.br\
+Vitor Fernandes Dullens - vitordullens@cjr.org.br\
+Dep. Ciência da Computação – Universidade de Brası́lia (UnB)\
+CiC 116319 - Estrutura de Dados - Turma A
 
 ## Game Informations
 - Pode ser jogado multiplayer ou com a inteligencia artificial, produzida atraves da implementação de uma [Game Tree](https://en.wikipedia.org/wiki/Game_tree);
