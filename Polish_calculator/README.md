@@ -13,7 +13,7 @@ usuário, analisar se é uma expressão válida, tranformá-la para a forma posf
 a estrutura de dados pilha, além de mostrar na tela para o usuário ela(expressão) na forma
 posfixa e mostrar o resultado da expressão.
 
-##Tutorial
+## Tutorial
 
 Baixar o arquivo "Calculadora", compilar no terminal com o código: "gcc Calculator Calculator.c" e executar o comando ./Calculator
 
