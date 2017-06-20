@@ -15,7 +15,7 @@
 
 ## Tutorial
 
-- Baixar dois arquivos: Restaurante e o Mapa , colocar os 2 na mesma pasta, compilar no terminal com o código: "gcc Trabalho Trabalho.c" e executar o comando ./Trabalho.
+- Baixar dois arquivos: Restaurante e Mapa, colocar os 2 na mesma pasta, compilar no terminal com o código: "gcc Trabalho Trabalho.c" e executar o comando ./Trabalho.
 - [Restaurante](Trabalho.c)
 - [Mapa](restaurante.txt)
 - [Relatório](Relatório.docx)
