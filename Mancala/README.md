@@ -26,6 +26,6 @@
 
 ## Tutorial
 
-- Baixar o arquivo "Mancala", compilar no terminal com o código: "gcc Mancala Mancala.c" e executar o comando ./Mancala.
+- Baixar o arquivo "Mancala", compilar no terminal com o código: "gcc Mancala Mancala.c" e executar o comando "./Mancala".
 - [Mancala](Mancala.c)
 - [Relatório](Report.pdf)
