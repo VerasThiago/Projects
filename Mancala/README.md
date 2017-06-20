@@ -6,7 +6,7 @@ Vitor Fernandes Dullens - vitordullens@cjr.org.br\
 Dep. Ciência da Computação – Universidade de Brası́lia (UnB)\
 CiC 116319 - Estrutura de Dados - Turma A
 
-## Game Informations
+## Game Description
 - Pode ser jogado multiplayer ou com a inteligencia artificial, produzida atraves da implementação de uma [Game Tree](https://en.wikipedia.org/wiki/Game_tree);
 - A inteligencia artificial possui 4 dificuldades, baseadas na altura da [Game Tree](https://en.wikipedia.org/wiki/Game_tree).
 
