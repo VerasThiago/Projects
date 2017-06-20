@@ -1,8 +1,8 @@
 # Mancala game in C with Artificial Intelligence
 
 ## Autors:
-	Thiago Veras Machado
-	Vitor Fernandes Dullens
+Thiago Veras Machado\
+Vitor Fernandes Dullens
 
 - Pode ser jogado multiplayer ou com a inteligencia artificial, produzida atraves da implementação de uma [Game Tree](https://en.wikipedia.org/wiki/Game_tree);
 - A inteligencia artificial possui 4 dificuldades, baseadas na altura da [Game Tree](https://en.wikipedia.org/wiki/Game_tree).
