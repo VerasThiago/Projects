@@ -23,3 +23,10 @@ CiC 116319 - Estrutura de Dados - Turma A
 - Ao fazer isso, todas as peças dessa posição são movidas uma a uma, para a proxima casa a direita (incluindo a Kalah e as casas do outro jogador);
 - Quando estiver movendo, se a ultima peça cair na sua Kalah, voce pode jogar novamente;
 - Para capturar as peças do adversário, a ultima peça a ser movida, deve cair em um buraco vazio, a casa a frente dela perde as peças e elas vão para a Kalah de quem as roubou.
+
+##Tutorial
+
+Baixar o arquivo "Mancala", compilar no terminal com o código: "gcc Mancala Mancala.c" e executar o comando ./Mancala
+
+[Mancala](Mancala.c)\
+[Relatório](Report.pdf)\
