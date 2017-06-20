@@ -6,7 +6,7 @@ Vitor Fernandes Dullens - vitordullens@cjr.org.br\
 Dep. Ciência da Computação – Universidade de Brası́lia (UnB)\
 CiC 116319 - Estrutura de Dados - Turma A
 
-## Game Informations
+## Program Informations
 O trabalho consiste em uma calculadora de expressões, no qual a entrada vai ser uma
 expressão no tipo infixa i.e: ((2+4)*3), e o programa deverá ler a expressão digitada pelo
 usuário, analisar se é uma expressão válida, tranformá-la para a forma posfixa, utilizando
