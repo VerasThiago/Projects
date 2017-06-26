@@ -3,7 +3,7 @@ Instituto de Ciencias Exatas
 Departamento de Ciencia da Computacao
 Algoritmos e Programação de Computadores – 2/2016
 Aluno(a): < Thiago Veras Machado   >
-Matricula: < 16/8146682 >
+Matricula: < 16/0146682 >
 Turma: A
 Versão do compilador: <5.4.0>
 */
