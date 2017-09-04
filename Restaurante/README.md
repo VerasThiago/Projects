@@ -2,7 +2,7 @@
 
 ## Autor
 
-- Thiago Veras Machado - thiagomachado@cjr.org.br
+- Thiago Veras Machado - thiago.veras.machado@gmail.com
 - Dep. Ciência da Computação – Universidade de Brası́lia (UnB)
 - CiC 116319 - Algorítmos e Programas de Computadores - Turma A - 2016/2
 
